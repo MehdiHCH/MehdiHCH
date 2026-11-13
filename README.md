@@ -1,434 +1,172 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+EL+MEHDI+Hicham;AI%2FML+Engineer;Computer+Vision+Specialist;Deep+Learning+%26+MLOps+Expert" alt="Typing SVG" />
-</h1>
-
-<h3 align="center">
-AI/ML Engineer | Computer Vision & Generative AI Specialist | Building Intelligent Real-Time Systems with Deep Learning & MLOps
-</h3>
+<h1 align="center">EL MEHDI Hicham</h1>
+<h3 align="center">Computer Vision Engineer · AI & Computer Vision R&D</h3>
+<p align="center">
+  Turning football video into tracking data, spatial understanding, and actionable analysis.
+</p>
 
 <p align="center">
-  <a href="https://mehdihch.github.io/PortfolioMCH/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit-ff5722?style=for-the-badge" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/elmehdihicham/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:mehdihicham736@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=MehdiHCH&style=for-the-badge&color=blue" alt="Profile views"/>
+  <a href="https://mehdihch.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Explore_my_work-0891B2?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/elmehdihicham/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:mehdihicham736@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_talk-334155?style=for-the-badge" alt="Email" /></a>
+</p>
+
+<p align="center">
+  Based in Morocco 🇲🇦 · Computer Vision Engineer at <b>Harmony Technology</b><br />
+  Open to technical collaborations, applied research, and knowledge sharing
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About me
 
-```python
-developer = {
-    "name": "EL MEHDI Hicham",
-    "location": "Kenitra, Morocco 🇲🇦",
-    "education": "Master's in Artificial Intelligence",
-    "status": "🔍 Actively seeking opportunities",
-    "interests": ["Computer Vision", "Deep Learning", "Sports Analytics", "MLOps"],
-    "motto": "Building intelligent systems that solve real-world problems"
-}
-```
+I'm a Computer Vision Engineer with a Master's degree in **Artificial Intelligence and Virtual Reality** from **Ibn Tofail University, Kénitra**.
 
-- 🎓 **Master's Degree** in Artificial Intelligence from Ibn Tofail University
-- 💼 **Seeking**: Full-time AI/ML Engineer, Computer Vision Engineer, or MLOps roles
-- 🚀 Specialized in **Computer Vision**, **Real-time Inference Optimization**, and **Production ML Systems**
-- ⚡ Expert in **YOLO**, **PyTorch**, **TensorRT**, **CUDA**, and **ONNX optimization**
-- 🌱 Constantly learning and building projects in **Generative AI**, **LLMs**, and **Robotics**
-- 📫 Reach me: **mehdihicham736@gmail.com**
+My work connects deep learning with geometry: detecting players and balls, maintaining identities through occlusion, calibrating cameras, projecting movement onto the pitch, and extracting information from video. I also work on the engineering that makes these pipelines practical: GPU inference, temporal consistency, model conversion, and performance evaluation.
 
----
+Alongside my professional work, I develop **TactiVision**, an independent football video analytics R&D project.
 
-## 💼 Professional Summary
+## What I work on
 
-**AI/ML Engineer** with expertise in developing and optimizing **computer vision pipelines** for real-world applications. Proven track record in:
+| Area | Focus |
+| --- | --- |
+| **Detection & segmentation** | Players, balls, referees, goals, pitch regions, and field keypoints |
+| **Tracking & identity** | Multi-object tracking, player ReID, team assignment, and jersey OCR |
+| **Geometric vision** | Camera calibration, homography, pitch projection, and 2D/3D spatial analysis |
+| **Video understanding** | Possession, passes, shots, interceptions, goals, and temporal smoothing |
+| **Inference & deployment** | TensorRT, ONNX, FP16, CUDA streams, batching, and pipeline profiling |
+| **Analytics outputs** | Annotated video, trajectories, heatmaps, pass maps, JSON timelines, and CSV statistics |
 
-- ✅ **Real-time video analysis** (13 FPS processing with 50% inference reduction)
-- ✅ **Object detection & tracking** (YOLOv8/11, DeepSORT, multi-object tracking)
-- ✅ **Performance optimization** (CUDA Streams, TensorRT, ONNX, FP16 quantization)
-- ✅ **End-to-end ML pipelines** (data preprocessing, model training, deployment)
-- ✅ **Team leadership** (supervised 4 interns, project management)
-- ✅ **Generative AI & NLP** (LLMs, RAG pipelines, LangChain)
+## Career
 
----
+### Harmony Technology · Computer Vision Engineer
+**October 2026 – Present · Morocco**
 
-## 🛠️ Technical Skills
+Working on computer vision for **3D football officiating and spatial analysis**, with a focus on player and ball tracking, camera calibration, geometric understanding, and pipeline reliability.
 
-### **Programming Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+### Priori Sports · Computer Vision Engineer — Contract
+**2026 · United States · Remote**
 
-### **AI/ML Frameworks**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+Contributed to football spatial tracking and **ball-height estimation** using camera calibration and geometric reconstruction. Work included linking image observations to spatial coordinates and refining trajectories over time.
 
-### **Computer Vision & Optimization**
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
+### SPORTSCORE · R&D Intern — Computer Vision & AI
+**April – October 2025 · France · Remote**
 
-### **Generative AI & NLP**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=flat-square&logoColor=white)
+Developed components of an automated futsal video analysis pipeline, from detection and tracking to event analysis and reporting.
 
-### **MLOps & Cloud**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+- Fine-tuned ball detection and worked on goal confirmation.
+- Integrated player tracking, team colors, jersey OCR, pose estimation, and pitch projection.
+- Built action analysis for passes, shots, dribbles, interceptions, and goals.
+- Optimized inference with CUDA streams, batching, caching, and TensorRT FP16.
+- Mentored a small team of interns and delivered annotated videos and structured analytics.
 
-### **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-00ADD8?style=flat-square&logoColor=white)
+### Ibn Tofail University · SETIME Laboratory
+**October 2024 – January 2025 · Kénitra, Morocco**
 
-### **Robotics**
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
-![Gazebo](https://img.shields.io/badge/Gazebo-FF6F00?style=flat-square&logoColor=white)
+Built an end-to-end video event spotting workflow with **RegNet-Y, Gate Shift Modules, and Bi-GRU**, covering video extraction, annotation, training, and evaluation.
 
----
+### Orange Business · CDN Security Engineering Internship
+**September – November 2023 · Sala Al Jadida, Morocco**
 
-## 🎓 Certifications
+Worked on secure content delivery, token-based URL generation, shell scripting, and CDN access controls.
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Skillsoft-0052CC?style=for-the-badge&logo=skillshare&logoColor=white"/><br/>
-      <b>Automation Testing for Python</b><br/>
-      <sub>Nov 2023 • ID: 6738984</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Skillsoft-0052CC?style=for-the-badge&logo=skillshare&logoColor=white"/><br/>
-      <b>AI/ML Data Strategy</b><br/>
-      <sub>Nov 2023 • ID: 6738563</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Skillsoft-0052CC?style=for-the-badge&logo=skillshare&logoColor=white"/><br/>
-      <b>Network Monitoring & Remote Access</b><br/>
-      <sub>Nov 2023 • ID: 6723461</sub>
-    </td>
-  </tr>
-</table>
+## Selected results
 
----
+| Work | Reported result | Context |
+| --- | --- | --- |
+| **Futsal frame classification** | **99.95% accuracy** | Main-view vs. other-view classification; approximately 33% of frames filtered |
+| **Pipeline parallelization** | **22m57s → 12m12s** | Same 1m14s test video; approximately 46.8% less processing time |
+| **Futsal ball detection** | **90.1% precision · 83.4% recall · 83.4% mAP50** | Fine-tuned detector evaluation |
+| **Video event spotting** | **0.93 recall** | DRIVE class in the university research project |
 
-## 💡 Core Competencies
+<sub>Results are specific to their evaluation datasets, hardware, and pipeline configurations. They are not general benchmarks or end-to-end accuracy claims.</sub>
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      
-### 🤖 **AI/ML**
-- Deep Learning (CNN, RNN, LSTM, Transformers)
-- Reinforcement Learning (TD3, DQN)
-- Model Optimization & Quantization
-- Transfer Learning
-- Ensemble Methods
-      
-    </td>
-    <td valign="top" width="33%">
-      
-### 👁️ **Computer Vision**
-- Object Detection (YOLO, Faster R-CNN)
-- Multi-Object Tracking (DeepSORT)
-- Pose Estimation
-- OCR (PaddleOCR, CRNN)
-- Video Analytics
-- Homography & Camera Calibration
-      
-    </td>
-    <td valign="top" width="33%">
-      
-### 🚀 **Performance & Deployment**
-- CUDA Optimization
-- TensorRT Inference
-- ONNX Model Conversion
-- Real-time Processing
-- REST API Development
-- Docker Containerization
-      
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="33%">
-      
-### 🧠 **Generative AI & NLP**
-- Large Language Models (LLMs)
-- RAG Pipelines
-- Prompt Engineering
-- Vector Databases (FAISS, Pinecone)
-- Embeddings & Similarity Search
-      
-    </td>
-    <td valign="top" width="33%">
-      
-### 🛠️ **Software Engineering**
-- Clean Code & Best Practices
-- Version Control (Git/GitHub)
-- Agile/Scrum Methodologies
-- CI/CD Basics
-- Shell Scripting & Automation
-      
-    </td>
-    <td valign="top" width="33%">
-      
-### 👥 **Soft Skills**
-- Team Leadership & Mentoring
-- Project Management
-- Problem Solving
-- Communication & Collaboration
-- Time Management
-- Adaptability & Fast Learning
-      
-    </td>
-  </tr>
-</table>
+## Tools & software
 
----
-
-## 📊 Key Achievements
-
-<div align="center">
-
-| **Achievement** | **Impact** | **Technology** |
-|:---|:---:|---:|
-| Automated Futsal Video Analysis Pipeline | 99.95% accuracy | YOLOv11, TensorRT |
-| Inference Time Optimization | **50% reduction** | CUDA Streams, FP16 |
-| Processing Speed Enhancement | **+117% (13 FPS)** | Multi-stream parallelization |
-| Event Spotting System | 0.93 recall | RegNet-Y, Bi-GRU |
-| Team Leadership | Supervised 4 interns | Project Management |
-
-</div>
-
----
-
-## 💼 Professional Experience
-
-### 🚀 **SPORTSCORE** - R&D Engineer in Computer Vision & AI
-**📍 Paris, France (Remote) | 📅 April 2025 - October 2025**
-
-```yaml
-Project: Automated Futsal Video Analysis Pipeline
-Technologies: PyTorch, YOLOv8/11, DeepSORT, TensorRT, CUDA Streams, OpenCV, OCR
-
-Key Achievements:
-  - 🎯 Built frame classification module (99.95% accuracy)
-  - ⚡ Reduced inference time by 50% using CUDA parallelization
-  - 🚀 Achieved 13 FPS processing speed (+117% improvement)
-  - 🏃 Implemented complex action detection (passes, shots, dribbles, goals)
-  - 👥 Supervised and trained 4 interns
-  - 📊 Delivered automated performance reports (heatmaps, pass maps, JSON exports)
-
-Optimizations:
-  - Multi-stream processing (5 CUDA streams)
-  - TensorRT FP16 optimization (7 models)
-  - Asynchronous I/O operations
-  - ONNX model conversion for cross-platform deployment
-```
-
-### 🔬 **Ibn Tofail University - LABORATOIRE SETIME**
-**📍 Kenitra, Morocco | 📅 October 2024 - January 2025**
-
-```yaml
-Project: End-to-End Event Spotting in Videos
-Technologies: PyTorch, RegNet-Y, ResNet-50, Bi-GRU, OpenCV, RTX 4060
-
-Achievements:
-  - 🎬 Developed full pipeline (extraction, annotation, normalization)
-  - 🧠 Implemented RegNet-Y with Gate Shift Modules (GSM)
-  - 📈 Achieved 0.93 recall on DRIVE class
-  - 🏆 RegNet-Y outperformed ResNet-50
-  - 📦 Processed 40GB dataset (7 Futsal World Cup 2024 matches)
-```
-
-### 🌐 **Orange Business** - CDN Security Engineering
-**📍 Sale Al Jadida, Morocco | 📅 September 2023 - November 2023**
-
-```yaml
-Project: Content Delivery Network Security Enhancement
-Technologies: Shell Scripting, JWT, CORS, Security Protocols
-
-Achievements:
-  - 🔐 Developed secure URL generation with token authentication
-  - 🛡️ Enhanced security (CORS, XSS, CSRF protection)
-  - 🔧 Resolved critical URL formatting issues
-```
-
----
-
-## 🎓 Featured Projects
-
-<div align="center">
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">⚽ Futsal Video Analytics</h3>
-      <br/>
-      <p align="center">
-        <a href="https://mehdihch.github.io/Portfolio/">
-          <img src="https://img.shields.io/badge/View-Demo-blue?style=for-the-badge" alt="Demo"/>
-        </a>
-      </p>
-      <p>
-        <strong>🎯 Automated player tracking & action detection</strong><br/>
-        • Multi-player tracking with DeepSORT<br/>
-        • Real-time pose estimation<br/>
-        • Complex action classification<br/>
-        • 13 FPS processing (50% faster)<br/>
-        <br/>
-        <code>YOLOv11</code> <code>TensorRT</code> <code>CUDA</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 Autonomous Car (RL)</h3>
-      <br/>
-      <p align="center">
-        <a href="https://github.com/MehdiHCH">
-          <img src="https://img.shields.io/badge/View-Code-green?style=for-the-badge" alt="Code"/>
-        </a>
-      </p>
-      <p>
-        <strong>🚗 Self-driving with Deep RL</strong><br/>
-        • ROS2-Gazebo simulation pipeline<br/>
-        • TD3 reinforcement learning agent<br/>
-        • Camera & LiDAR sensor fusion<br/>
-        • Real-time obstacle avoidance<br/>
-        <br/>
-        <code>ROS2</code> <code>TD3</code> <code>PyTorch</code>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📜 Tifinagh OCR System</h3>
-      <br/>
-      <p align="center">
-        <a href="https://github.com/MehdiHCH">
-          <img src="https://img.shields.io/badge/View-Code-green?style=for-the-badge" alt="Code"/>
-        </a>
-      </p>
-      <p>
-        <strong>🏛️ Cultural heritage preservation</strong><br/>
-        • Hybrid CRNN-based OCR model<br/>
-        • Handwritten Amazigh script recognition<br/>
-        • PaddleOCR integration<br/>
-        • High accuracy character detection<br/>
-        <br/>
-        <code>CRNN</code> <code>PaddleOCR</code> <code>OpenCV</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">👁️ Diabetic Retinopathy Detection</h3>
-      <br/>
-      <p align="center">
-        <a href="https://github.com/MehdiHCH">
-          <img src="https://img.shields.io/badge/View-Code-green?style=for-the-badge" alt="Code"/>
-        </a>
-      </p>
-      <p>
-        <strong>🏥 Early disease diagnosis with AI</strong><br/>
-        • EfficientNetB0 classification<br/>
-        • APTOS 2019 dataset preprocessing<br/>
-        • Data augmentation pipeline<br/>
-        • Medical imaging optimization<br/>
-        <br/>
-        <code>EfficientNet</code> <code>TensorFlow</code> <code>Keras</code>
-      </p>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-activity-graph.luckylinux.dev/graph?username=MehdiHCH&theme=react-dark&hide_border=true&area=true" width="90%"/>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Ultralytics_YOLO-111827?style=flat-square" alt="Ultralytics YOLO" />
+  <img src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="TensorRT" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA" />
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX" />
 </p>
 
----
+| Category | Tools & methods |
+| --- | --- |
+| **Core development** | Python, NumPy, OpenCV, Git, Linux, Windows, Shell |
+| **Deep learning** | PyTorch, Ultralytics YOLO — including YOLO11 and YOLO26, TensorFlow/Keras, scikit-learn |
+| **Tracking & ReID** | ByteTrack, OC-SORT, DeepSORT, OSNet / Torchreid |
+| **OCR & annotation** | PaddleOCR, EasyOCR, CVAT |
+| **Calibration & geometry** | Field keypoints, RANSAC, homography, camera models, reprojection checks, temporal smoothing |
+| **GPU inference** | TensorRT, ONNX Runtime, CUDA streams, FP16, batching, caching |
+| **Applications & deployment** | Docker, FastAPI, AWS |
+| **Other project experience** | ROS2, Gazebo, reinforcement learning, CRNN-based OCR |
 
-## 🌐 Languages
+## TactiVision · Independent R&D
 
-| **Language** | **Proficiency** |
-|:---|:---:|
-| 🇲🇦 Arabic | Native |
-| 🇫🇷 French | Professional |
-| 🇬🇧 English | Intermediate |
+**Football video → detections → identities & pitch coordinates → game state → events & analytics**
 
----
+I use TactiVision to explore how computer vision can support football analysis across tactical and broadcast footage.
 
-## 🎯 What I'm Looking For
+- **Perception:** player, ball, referee, goalkeeper, and pitch keypoint detection.
+- **Identity:** team assignment, ReID, jersey OCR, and recovery after occlusion.
+- **Geometry:** camera calibration, homography stabilization, and pitch projection.
+- **Game understanding:** possession, action detection, trajectories, and tactical visualizations.
+- **Engineering:** multiple TensorRT models, GPU parallelism, and structured outputs.
 
-```yaml
-ideal_role:
-  position: ["AI/ML Engineer", "Computer Vision Engineer", "MLOps Engineer", "Research Engineer"]
-  focus_areas:
-    - Real-time video processing and analytics
-    - Production ML systems deployment
-    - Computer vision applications
-    - Deep learning model optimization
-    - Sports tech / Analytics platforms
-  
-  type: ["Full-time", "Contract", "Remote", "Hybrid"]
-  
-  company_culture:
-    - Innovation-driven with cutting-edge AI/CV technologies
-    - Strong emphasis on learning and professional growth
-    - Collaborative team environment with mentorship opportunities
-    - Meaningful real-world impact and user-centric products
-    - Research-to-production pipeline mindset
-  
-  what_i_bring:
-    - Production-ready CV expertise (50%+ optimization results)
-    - End-to-end ML ownership (research → deployment)
-    - Fast learning with Master's in AI + hands-on experience
-    - Team leadership (supervised 4 interns while delivering)
-    - Problem-solving for complex challenges
-```
+**Current research priorities:** stable identities after players leave and re-enter the frame, calibration during camera motion, ball tracking, and longer-sequence reliability. I am also exploring VLM-assisted identity recovery.
 
----
+<sub>TactiVision is under active development and validation. Demonstrated match sequences do not imply validated performance across complete 90-minute matches.</sub>
 
-## 💬 Let's Connect
+[Explore my portfolio](https://mehdihch.github.io/Portfolio/) · [Follow my research updates](https://www.linkedin.com/in/elmehdihicham/)
+
+## Other projects
+
+| Project | Technical focus |
+| --- | --- |
+| **Tifinagh OCR** | Handwritten Amazigh character recognition, CRNN, and OCR workflows |
+| **Autonomous navigation** | Reinforcement learning with TD3 and ROS2/Gazebo simulation |
+| **Diabetic retinopathy classification** | EfficientNetB0, APTOS 2019, preprocessing, and augmentation |
+
+## How I work
+
+I enjoy turning an ambiguous video problem into an experiment with measurable results. My approach combines dataset preparation, model evaluation, visual debugging, and iteration on difficult sequences.
+
+My experience also includes **mentoring interns, documenting methods, coordinating technical work remotely, and explaining model behavior and limitations**.
+
+## Education & languages
+
+**Master's in Artificial Intelligence and Virtual Reality**  
+Ibn Tofail University · Faculty of Sciences, Kénitra · 2025
+
+| Arabic | French | English |
+| :---: | :---: | :---: |
+| Native | Professional | Intermediate |
+
+<details>
+<summary><b>Additional certifications</b></summary>
+
+Skillsoft · November 2023
+
+- Automation Testing for Python
+- AI/ML Data Strategy
+- Network Monitoring & Remote Access
+
+</details>
+
+## GitHub activity
 
 <p align="center">
-  I'm actively seeking new opportunities and always open to discussing AI/ML projects, collaborations, or job opportunities!
-</p>
-
-<p align="center">
-  <a href="https://mehdihch.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Explore_My_Work-FF5722?style=for-the-badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/elmehdihicham/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:mehdihicham736@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail"/>
+  <a href="https://github.com/MehdiHCH">
+    <img src="https://github-activity-graph.luckylinux.dev/graph?username=MehdiHCH&theme=react-dark&hide_border=true&area=true" width="95%" alt="Hicham's GitHub contribution activity graph" />
   </a>
 </p>
 
-<p align="center">
-  <b>📧 Email:</b> mehdihicham736@gmail.com<br/>
-  <b>📱 Phone:</b> +212 696 935 329<br/>
-  <b>📍 Location:</b> Kenitra, Morocco (Open to relocation/remote)
-</p>
+## Let's connect
 
----
+Interested in **computer vision, sports technology, geometric vision, or efficient video inference**? I'm happy to exchange ideas and discuss relevant technical collaborations.
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%"/>
-  
-  <sub>⭐ From [MehdiHCH](https://github.com/MehdiHCH) • Open to opportunities in AI/ML Engineering</sub>
-</div>
+**[Portfolio](https://mehdihch.github.io/Portfolio/)** · **[LinkedIn](https://www.linkedin.com/in/elmehdihicham/)** · **[Email](mailto:mehdihicham736@gmail.com)**
+
+<sub>Last updated: November 2026</sub>
