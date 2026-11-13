@@ -121,30 +121,63 @@ The focus is on both useful football outputs and the engineering needed for stab
 | **Inference & deployment** | TensorRT, ONNX, FP16, CUDA streams, batching, and pipeline profiling |
 | **Analytics outputs** | Annotated video, trajectories, heatmaps, pass maps, JSON timelines, and CSV statistics |
 
-## 💼 Previous Experience
+## 💼 Career & Experience
 
-### Priori Sports · Computer Vision Engineer — Contract
-**2026 · United States · Remote**
+### 🔒 Computer Vision Engineer · Company name withheld
+**October 2026 – Present · 🇲🇦 Morocco**
 
-Contributed to football spatial tracking and **ball-height estimation** using camera calibration and geometric reconstruction. Work included linking image observations to spatial coordinates and refining trajectories over time.
+Working on **3D football officiating and spatial analysis**, combining player and ball tracking, camera calibration, geometric vision, and reliable video-processing pipelines.
 
-### SPORTSCORE · R&D Intern — Computer Vision & AI
-**April – October 2025 · France · Remote**
+### 🌍 Computer Vision Engineer & Sports AI Consultant · Freelance
+**July – September 2026 · Remote · 🇦🇺 Australia · 🇳🇿 New Zealand · 🇭🇷 Croatia**
 
-Developed components of an automated futsal video analysis pipeline, from detection and tracking to event analysis and reporting.
+**Clients: SolveXI, TechnologyOne, and other international clients**
 
-- Fine-tuned ball detection and worked on goal confirmation.
-- Integrated player tracking, team colors, jersey OCR, pose estimation, and pitch projection.
-- Built action analysis for passes, shots, dribbles, interceptions, and goals.
-- Optimized inference with CUDA streams, batching, caching, and TensorRT FP16.
-- Mentored a small team of interns and delivered annotated videos and structured analytics.
+- **SolveXI:** integrated SkillCorner tracking, events, and phase-of-play data into a tactical analysis pipeline. Produced coach-readable insights on team shape, width and depth, possession structure, passing options, pressing, and cross-match patterns.
+- **TechnologyOne:** evaluated footage quality, detection and tracking feasibility, and camera-calibration requirements. Advised on architecture, model adaptation, Veo-camera workflows, and homography/pitch mapping.
+- Provided technical advisory on system design, model selection, deployment, benchmarking, and development planning.
+- Translated requirements into clear milestones, deliverables, implementation phases, and engineering recommendations.
 
-### Ibn Tofail University · SETIME Laboratory
+**Tools:** Python · PyTorch · OpenCV · SkillCorner data · Multi-object tracking · Homography · Tactical analytics
+
+### 🇺🇸 Priori Sports, Inc. · Computer Vision Engineer — Contract
+**May – June 2026 · San Francisco, United States · Remote**
+
+- Developed football spatial tracking components, including calibrated spatial projection and tracking-data processing.
+- Built **ball-height and trajectory estimation** from 2D observations and camera-calibration data.
+- Applied temporal smoothing, airborne detection, and spatial correction.
+
+**Tools:** Python · OpenCV · Camera calibration · 3D geometry · NumPy · SciPy · Signal processing
+
+### 🇫🇷 SportScore · Computer Vision Engineer — Freelance
+**September – October 2025 · Paris, France · Remote**
+
+Continued after the internship to restructure and optimize the inference pipeline.
+
+- Separated model loading, preprocessing, inference, and postprocessing into independent stages.
+- Reduced serial bottlenecks through parallel execution, CUDA streams, batched ReID, and asynchronous processing.
+- Reduced processing time by **46.7%** on the measured test sequence.
+
+**Tools:** TensorRT FP16 · CUDA streams · ONNX · PyTorch · Python
+
+### 🇫🇷 SportScore · R&D Intern — Applied AI & Computer Vision
+**April – September 2025 · Paris, France · Remote**
+
+- Built a YOLO11 frame classifier with **99.95% accuracy** for main-view vs. other-view filtering.
+- Developed player and ball detection, tracking, OSNet ReID, team assignment, jersey OCR, and pose components.
+- Applied camera homography and geometric transformations for spatial analysis and pitch mapping.
+- Implemented action analysis covering passes, shots, dribbles, interceptions, and goals.
+- Delivered heatmaps, pass maps, structured JSON/CSV outputs, and match statistics.
+- Worked autonomously and helped coordinate implementation and code consistency across the intern team.
+
+**Tools:** Python · PyTorch · TensorFlow · OpenCV · YOLO · DeepSORT · OSNet · CUDA · TensorRT · Pandas · Docker · FastAPI
+
+### 🇲🇦 Ibn Tofail University · SETIME Laboratory
 **October 2024 – January 2025 · Kénitra, Morocco**
 
 Built an end-to-end video event spotting workflow with **RegNet-Y, Gate Shift Modules, and Bi-GRU**, covering video extraction, annotation, training, and evaluation.
 
-### Orange Business · CDN Security Engineering Internship
+### 🇲🇦 Orange Business · CDN Security Engineering Internship
 **September – November 2023 · Sala Al Jadida, Morocco**
 
 Worked on secure content delivery, token-based URL generation, shell scripting, and CDN access controls.
@@ -154,7 +187,7 @@ Worked on secure content delivery, token-based URL generation, shell scripting, 
 | Work | Reported result | Context |
 | --- | --- | --- |
 | **Futsal frame classification** | **99.95% accuracy** | Main-view vs. other-view classification; approximately 33% of frames filtered |
-| **Pipeline parallelization** | **22m57s → 12m12s** | Same 1m14s test video; approximately 46.8% less processing time |
+| **Pipeline parallelization** | **22m57s → 12m12s** | Same 1m14s test video; approximately 46.7% less processing time |
 | **Futsal ball detection** | **90.1% precision · 83.4% recall · 83.4% mAP50** | Fine-tuned detector evaluation |
 | **Video event spotting** | **0.93 recall** | DRIVE class in the university research project |
 
@@ -174,14 +207,16 @@ Worked on secure content delivery, token-based URL generation, shell scripting, 
 
 | Category | Tools & methods |
 | --- | --- |
-| **Core development** | Python, NumPy, OpenCV, Git, Linux, Windows, Shell |
+| **Core development** | Python, C/C++, SQL, NumPy, Pandas, OpenCV, Git, Linux, Windows, Shell |
 | **Deep learning** | PyTorch, Ultralytics YOLO — including YOLO11 and YOLO26, TensorFlow/Keras, scikit-learn |
 | **Tracking & ReID** | ByteTrack, OC-SORT, DeepSORT, OSNet / Torchreid |
 | **OCR & annotation** | PaddleOCR, EasyOCR, CVAT |
 | **Calibration & geometry** | Field keypoints, RANSAC, homography, camera models, reprojection checks, temporal smoothing |
-| **GPU inference** | TensorRT, ONNX Runtime, CUDA streams, FP16, batching, caching |
-| **Applications & deployment** | Docker, FastAPI, AWS |
-| **Other project experience** | ROS2, Gazebo, reinforcement learning, CRNN-based OCR |
+| **GPU inference** | TensorRT FP16/INT8, ONNX Runtime, CUDA streams, batching, caching |
+| **Applications & deployment** | Docker, FastAPI, REST APIs, AWS S3/EC2 |
+| **Sports data & analytics** | SkillCorner tracking/events/phase-of-play data, tactical analysis, Veo-camera workflows |
+| **Mathematical methods** | Linear algebra, projective geometry, statistics, signal processing, SciPy |
+| **Other project experience** | ROS2, Gazebo, LiDAR, reinforcement learning, CRNN-based OCR |
 
 ## 💡 Other Projects
 
@@ -200,11 +235,14 @@ My experience also includes **mentoring interns, documenting methods, coordinati
 ## 🎓 Education & Languages
 
 **Master's in Artificial Intelligence and Virtual Reality**  
-Ibn Tofail University · Faculty of Sciences, Kénitra · 2025
+🇲🇦 Ibn Tofail University · Faculty of Sciences, Kénitra · 2023–2025
+
+**Bachelor's in Physics — Theoretical & Mathematical**  
+🇲🇦 Ibn Tofail University · Kénitra · 2020–2023
 
 | Arabic | French | English |
 | :---: | :---: | :---: |
-| Native | Professional | Intermediate |
+| Native | Professional | Professional working proficiency |
 
 <details>
 <summary><b>Additional certifications</b></summary>
