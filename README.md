@@ -355,7 +355,7 @@ Achievements:
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MehdiHCH&theme=react-dark&hide_border=true&area=true" width="90%"/>
+  <img src="https://github-activity-graph.luckylinux.dev/graph?username=MehdiHCH&theme=react-dark&hide_border=true&area=true" width="90%"/>
 </p>
 
 ---
