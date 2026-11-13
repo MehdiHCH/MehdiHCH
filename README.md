@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  📍 Morocco 🇲🇦 · 🎓 Master's in Artificial Intelligence & Virtual Reality<br />
+  📍 Morocco <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f1f2-1f1e6.svg" width="22" height="16" alt="Morocco flag" /> · 🎓 Master's in Artificial Intelligence & Virtual Reality<br />
   🤝 Open to technical collaborations, applied research, and knowledge sharing
 </p>
 ---
@@ -124,12 +124,12 @@ The focus is on both useful football outputs and the engineering needed for stab
 ## 💼 Career & Experience
 
 ### 🔒 Computer Vision Engineer · Company name withheld
-**October 2026 – Present · 🇲🇦 Morocco**
+**October 2026 – Present · <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f1f2-1f1e6.svg" width="22" height="16" alt="Morocco flag" /> Morocco**
 
 Working on **3D football officiating and spatial analysis**, combining player and ball tracking, camera calibration, geometric vision, and reliable video-processing pipelines.
 
 ### 🌍 Computer Vision Engineer & Sports AI Consultant · Freelance
-**July – September 2026 · Remote · 🇦🇺 Australia · 🇳🇿 New Zealand · 🇭🇷 Croatia**
+**July – September 2026 · Remote · <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f1e6-1f1fa.svg" width="22" height="16" alt="Australia flag" /> Australia · <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f1f3-1f1ff.svg" width="22" height="16" alt="New Zealand flag" /> New Zealand · <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f1ed-1f1f7.svg" width="22" height="16" alt="Croatia flag" /> Croatia**
 
 **Clients: SolveXI, TechnologyOne, and other international clients**
 
@@ -140,7 +140,7 @@ Working on **3D football officiating and spatial analysis**, combining player an
 
 **Tools:** Python · PyTorch · OpenCV · SkillCorner data · Multi-object tracking · Homography · Tactical analytics
 
-### 🇺🇸 Priori Sports, Inc. · Computer Vision Engineer — Contract
+### <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f1fa-1f1f8.svg" width="22" height="16" alt="United States flag" /> Priori Sports, Inc. · Computer Vision Engineer — Contract
 **May – June 2026 · San Francisco, United States · Remote**
 
 - Developed football spatial tracking components, including calibrated spatial projection and tracking-data processing.
@@ -149,7 +149,7 @@ Working on **3D football officiating and spatial analysis**, combining player an
 
 **Tools:** Python · OpenCV · Camera calibration · 3D geometry · NumPy · SciPy · Signal processing
 
-### 🇫🇷 SportScore · Computer Vision Engineer — Freelance
+### <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f1eb-1f1f7.svg" width="22" height="16" alt="France flag" /> SportScore · Computer Vision Engineer — Freelance
 **September – October 2025 · Paris, France · Remote**
 
 Continued after the internship to restructure and optimize the inference pipeline.
@@ -160,7 +160,7 @@ Continued after the internship to restructure and optimize the inference pipelin
 
 **Tools:** TensorRT FP16 · CUDA streams · ONNX · PyTorch · Python
 
-### 🇫🇷 SportScore · R&D Intern — Applied AI & Computer Vision
+### <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f1eb-1f1f7.svg" width="22" height="16" alt="France flag" /> SportScore · R&D Intern — Applied AI & Computer Vision
 **April – September 2025 · Paris, France · Remote**
 
 - Built a YOLO11 frame classifier with **99.95% accuracy** for main-view vs. other-view filtering.
@@ -172,12 +172,12 @@ Continued after the internship to restructure and optimize the inference pipelin
 
 **Tools:** Python · PyTorch · TensorFlow · OpenCV · YOLO · DeepSORT · OSNet · CUDA · TensorRT · Pandas · Docker · FastAPI
 
-### 🇲🇦 Ibn Tofail University · SETIME Laboratory
+### <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f1f2-1f1e6.svg" width="22" height="16" alt="Morocco flag" /> Ibn Tofail University · SETIME Laboratory
 **October 2024 – January 2025 · Kénitra, Morocco**
 
 Built an end-to-end video event spotting workflow with **RegNet-Y, Gate Shift Modules, and Bi-GRU**, covering video extraction, annotation, training, and evaluation.
 
-### 🇲🇦 Orange Business · CDN Security Engineering Internship
+### <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f1f2-1f1e6.svg" width="22" height="16" alt="Morocco flag" /> Orange Business · CDN Security Engineering Internship
 **September – November 2023 · Sala Al Jadida, Morocco**
 
 Worked on secure content delivery, token-based URL generation, shell scripting, and CDN access controls.
@@ -235,10 +235,10 @@ My experience also includes **mentoring interns, documenting methods, coordinati
 ## 🎓 Education & Languages
 
 **Master's in Artificial Intelligence and Virtual Reality**  
-🇲🇦 Ibn Tofail University · Faculty of Sciences, Kénitra · 2023–2025
+<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f1f2-1f1e6.svg" width="22" height="16" alt="Morocco flag" /> Ibn Tofail University · Faculty of Sciences, Kénitra · 2023–2025
 
 **Bachelor's in Physics — Theoretical & Mathematical**  
-🇲🇦 Ibn Tofail University · Kénitra · 2020–2023
+<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f1f2-1f1e6.svg" width="22" height="16" alt="Morocco flag" /> Ibn Tofail University · Kénitra · 2020–2023
 
 | Arabic | French | English |
 | :---: | :---: | :---: |
