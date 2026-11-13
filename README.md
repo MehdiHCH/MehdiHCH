@@ -1,23 +1,27 @@
-<h1 align="center">EL MEHDI Hicham</h1>
-<h3 align="center">Computer Vision Engineer · AI & Computer Vision R&D</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+EL+MEHDI+Hicham;AI+%26+Computer+Vision+Engineer;Building+AI+for+Sports;Tracking+%C2%B7+Geometry+%C2%B7+Video+Intelligence" alt="EL MEHDI Hicham — AI and Computer Vision for Sports" />
+</h1>
+
+<h3 align="center">⚽ Sports AI · 👁️ Computer Vision · 📐 Geometric Vision · 🚀 GPU Inference</h3>
+
 <p align="center">
-  Turning football video into tracking data, spatial understanding, and actionable analysis.
+  Turning football video into player identities, pitch coordinates, events, and tactical insights.
 </p>
 
 <p align="center">
-  <a href="https://mehdihch.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Explore_my_work-0891B2?style=for-the-badge" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/elmehdihicham/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
-  <a href="mailto:mehdihicham736@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_talk-334155?style=for-the-badge" alt="Email" /></a>
+  <a href="https://mehdihch.github.io/PortfolioMCH/"><img src="https://img.shields.io/badge/🌐_Portfolio-Explore_My_Work-0891B2?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/elmehdihicham/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mehdihicham736@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=MehdiHCH&style=for-the-badge&color=blue" alt="Profile views" />
 </p>
 
 <p align="center">
-  Based in Morocco 🇲🇦 · Computer Vision Engineer at <b>Harmony Technology</b><br />
-  Open to technical collaborations, applied research, and knowledge sharing
+  📍 Morocco 🇲🇦 · 🎓 Master's in Artificial Intelligence & Virtual Reality<br />
+  🤝 Open to technical collaborations, applied research, and knowledge sharing
 </p>
-
 ---
 
-## About me
+## 👨‍💻 About Me
 
 I'm a Computer Vision Engineer with a Master's degree in **Artificial Intelligence and Virtual Reality** from **Ibn Tofail University, Kénitra**.
 
@@ -25,7 +29,88 @@ My work connects deep learning with geometry: detecting players and balls, maint
 
 Alongside my professional work, I develop **TactiVision**, an independent football video analytics R&D project.
 
-## What I work on
+## ⚽ TactiVision · My Sports AI Project
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SPORTS_AI-TactiVision-00D9FF?style=for-the-badge" alt="TactiVision sports AI" />
+  <img src="https://img.shields.io/badge/Status-Active_R%26D-22C55E?style=for-the-badge" alt="Active research and development" />
+</p>
+
+**From match footage to structured football intelligence.**
+
+TactiVision is my independent R&D project combining **deep learning, tracking, geometric vision, and football analytics**. I build and evaluate the pipeline across tactical and broadcast video, connecting visual observations to player movement and game events.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 👁️ Perception
+- Player, goalkeeper, referee, and ball detection
+- Pitch keypoints and field understanding
+- Team color assignment and jersey OCR
+
+</td>
+<td width="50%" valign="top">
+
+### 🏃 Tracking & Identity
+- Multi-object tracking and player ReID
+- Identity consistency through occlusion
+- Recovery when players leave and return
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📐 Geometry & Spatial Analysis
+- Camera calibration and homography
+- Stable projection onto a top-down pitch
+- Player trajectories and ball-height research
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Events & Tactical Insights
+- Possession, passes, shots, and interceptions
+- Heatmaps, pass maps, and movement analysis
+- Annotated video, JSON timelines, and CSV stats
+
+</td>
+</tr>
+</table>
+
+### 🔄 How the pipeline connects
+
+```mermaid
+flowchart TD
+    A["⚽ Match video"] --> B["👁️ Detection & pitch keypoints"]
+    B --> C["🏃 Tracking, teams & jersey OCR"]
+    C --> D["📐 Calibration & pitch coordinates"]
+    D --> E["📊 Possession, events & tactical views"]
+    E --> F["🎬 Annotated video · JSON · CSV"]
+```
+
+### 🚀 Engineering behind the analysis
+**TensorRT FP16 · CUDA streams · Parallel model inference · Batch ReID · OCR caching · Temporal smoothing**
+
+The focus is on both useful football outputs and the engineering needed for stable results over time.
+
+### 🔬 What I'm exploring next
+- **Identity recovery:** combine tracking, jersey numbers, and ReID after long disappearances.
+- **VLM-assisted recovery:** explore visual context as a fallback for difficult identity cases.
+- **Camera motion:** improve calibration stability during pans and view transitions.
+- **Longer sequences:** strengthen ball tracking, synchronization, and full-match reliability.
+
+<sub>Independent research in active development, with evaluation on selected match sequences.</sub>
+
+<p align="center">
+  <a href="https://mehdihch.github.io/PortfolioMCH/"><img src="https://img.shields.io/badge/🎬_Explore-Sports_AI_Work-0891B2?style=for-the-badge" alt="Explore sports AI work" /></a>
+  <a href="https://www.linkedin.com/in/elmehdihicham/"><img src="https://img.shields.io/badge/Follow-R%26D_Updates-0A66C2?style=for-the-badge" alt="Research updates" /></a>
+</p>
+
+---
+
+## 🎯 What I Work On
 
 | Area | Focus |
 | --- | --- |
@@ -36,12 +121,7 @@ Alongside my professional work, I develop **TactiVision**, an independent footba
 | **Inference & deployment** | TensorRT, ONNX, FP16, CUDA streams, batching, and pipeline profiling |
 | **Analytics outputs** | Annotated video, trajectories, heatmaps, pass maps, JSON timelines, and CSV statistics |
 
-## Career
-
-### Harmony Technology · Computer Vision Engineer
-**October 2026 – Present · Morocco**
-
-Working on computer vision for **3D football officiating and spatial analysis**, with a focus on player and ball tracking, camera calibration, geometric understanding, and pipeline reliability.
+## 💼 Previous Experience
 
 ### Priori Sports · Computer Vision Engineer — Contract
 **2026 · United States · Remote**
@@ -69,7 +149,7 @@ Built an end-to-end video event spotting workflow with **RegNet-Y, Gate Shift Mo
 
 Worked on secure content delivery, token-based URL generation, shell scripting, and CDN access controls.
 
-## Selected results
+## 📈 Selected Results
 
 | Work | Reported result | Context |
 | --- | --- | --- |
@@ -80,7 +160,7 @@ Worked on secure content delivery, token-based URL generation, shell scripting, 
 
 <sub>Results are specific to their evaluation datasets, hardware, and pipeline configurations. They are not general benchmarks or end-to-end accuracy claims.</sub>
 
-## Tools & software
+## 🛠️ Tools & Software
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -103,25 +183,7 @@ Worked on secure content delivery, token-based URL generation, shell scripting, 
 | **Applications & deployment** | Docker, FastAPI, AWS |
 | **Other project experience** | ROS2, Gazebo, reinforcement learning, CRNN-based OCR |
 
-## TactiVision · Independent R&D
-
-**Football video → detections → identities & pitch coordinates → game state → events & analytics**
-
-I use TactiVision to explore how computer vision can support football analysis across tactical and broadcast footage.
-
-- **Perception:** player, ball, referee, goalkeeper, and pitch keypoint detection.
-- **Identity:** team assignment, ReID, jersey OCR, and recovery after occlusion.
-- **Geometry:** camera calibration, homography stabilization, and pitch projection.
-- **Game understanding:** possession, action detection, trajectories, and tactical visualizations.
-- **Engineering:** multiple TensorRT models, GPU parallelism, and structured outputs.
-
-**Current research priorities:** stable identities after players leave and re-enter the frame, calibration during camera motion, ball tracking, and longer-sequence reliability. I am also exploring VLM-assisted identity recovery.
-
-<sub>TactiVision is under active development and validation. Demonstrated match sequences do not imply validated performance across complete 90-minute matches.</sub>
-
-[Explore my portfolio](https://mehdihch.github.io/Portfolio/) · [Follow my research updates](https://www.linkedin.com/in/elmehdihicham/)
-
-## Other projects
+## 💡 Other Projects
 
 | Project | Technical focus |
 | --- | --- |
@@ -129,13 +191,13 @@ I use TactiVision to explore how computer vision can support football analysis a
 | **Autonomous navigation** | Reinforcement learning with TD3 and ROS2/Gazebo simulation |
 | **Diabetic retinopathy classification** | EfficientNetB0, APTOS 2019, preprocessing, and augmentation |
 
-## How I work
+## 🤝 How I Work
 
 I enjoy turning an ambiguous video problem into an experiment with measurable results. My approach combines dataset preparation, model evaluation, visual debugging, and iteration on difficult sequences.
 
 My experience also includes **mentoring interns, documenting methods, coordinating technical work remotely, and explaining model behavior and limitations**.
 
-## Education & languages
+## 🎓 Education & Languages
 
 **Master's in Artificial Intelligence and Virtual Reality**  
 Ibn Tofail University · Faculty of Sciences, Kénitra · 2025
@@ -155,7 +217,7 @@ Skillsoft · November 2023
 
 </details>
 
-## GitHub activity
+## 📊 GitHub Activity
 
 <p align="center">
   <a href="https://github.com/MehdiHCH">
@@ -163,10 +225,14 @@ Skillsoft · November 2023
   </a>
 </p>
 
-## Let's connect
+## 🌐 Let's Connect
 
 Interested in **computer vision, sports technology, geometric vision, or efficient video inference**? I'm happy to exchange ideas and discuss relevant technical collaborations.
 
-**[Portfolio](https://mehdihch.github.io/Portfolio/)** · **[LinkedIn](https://www.linkedin.com/in/elmehdihicham/)** · **[Email](mailto:mehdihicham736@gmail.com)**
+**[Portfolio](https://mehdihch.github.io/PortfolioMCH/)** · **[LinkedIn](https://www.linkedin.com/in/elmehdihicham/)** · **[Email](mailto:mehdihicham736@gmail.com)**
 
 <sub>Last updated: November 2026</sub>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%" alt="Decorative footer" />
+</p>
